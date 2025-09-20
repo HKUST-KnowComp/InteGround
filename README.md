@@ -2,9 +2,9 @@
 # InteGround: On the Evaluation of Verification and Retrieval Planning in Integrative Grounding
 
 This is the official repo for the paper **InteGround: On the Evaluation of Verification and Retrieval Planning in Integrative Grounding** [[Arxiv]]().
-<div style="width:80%; text-align:center;">
+<div style="width:100%; text-align:center;">
     <figure >
-        <img src="raw/overview.pdf">
+        <img src="raw/overview.png">
     </figure>
 </div>
 
